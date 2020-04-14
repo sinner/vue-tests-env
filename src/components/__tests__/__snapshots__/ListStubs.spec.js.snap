@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`List.vue stubs should list element using shallowMount and Stub component 1`] = `
+<div class="list">
+  <ul>
+    <strongredlistitem-stub movie="Iron Man"></strongredlistitem-stub>
+    <strongredlistitem-stub movie="Avengers"></strongredlistitem-stub>
+    <strongredlistitem-stub movie="Infitinity War"></strongredlistitem-stub>
+  </ul>
+</div>
+`;

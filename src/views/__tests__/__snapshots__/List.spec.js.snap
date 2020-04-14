@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`List.vue should list element using mount 1`] = `
+<div class="list">
+  <ul>
+    <li class="list-item">
+      <div class="colored-list-item">
+        <div><span class="strong">
+        - Iron Man
+      </span></div>
+      </div>
+    </li>
+    <li class="list-item">
+      <div class="colored-list-item">
+        <div><span class="strong">
+        - Avengers
+      </span></div>
+      </div>
+    </li>
+    <li class="list-item">
+      <div class="colored-list-item">
+        <div><span class="strong">
+        - Infitinity War
+      </span></div>
+      </div>
+    </li>
+    <li class="list-item">
+      <div class="colored-list-item">
+        <div><span class="strong">
+        - Endgame
+      </span></div>
+      </div>
+    </li>
+  </ul>
+</div>
+`;

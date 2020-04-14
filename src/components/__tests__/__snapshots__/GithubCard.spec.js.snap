@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GithubCard.vue should work properly the composeUrl method 1`] = `
+<div>
+  <form><input type="text"> <button type="submit">Load Details...</button></form>
+  <!---->
+</div>
+`;

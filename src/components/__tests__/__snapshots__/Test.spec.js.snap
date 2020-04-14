@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test.vue renders props.value when passed 1`] = `
+<div>
+  <h1>Hello Joe!</h1>
+</div>
+`;
+
+exports[`Test.vue renders without any prop passed 1`] = `
+<div>
+  <h1>Hello Test!</h1>
+</div>
+`;
